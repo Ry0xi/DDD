@@ -1,4 +1,7 @@
 <?php declare(strict_types=1);
+// *******************
+// 値オブジェクト
+// *******************
 
 // Classファイルの自動読み込み
 spl_autoload_register(function($className) {
